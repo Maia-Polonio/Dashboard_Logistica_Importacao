@@ -3,4 +3,6 @@ Monitoramento de Operações, Indicadores de Entregas, Desempenho de Operadores,
 
 ![image](https://github.com/Maia-Polonio/Dashboard_Logistica_Importacao/assets/131725481/1a173b31-8086-4fbb-bcbd-6e31981461c9)
 
+https://app.powerbi.com/groups/me/reports/650d4861-cf75-4904-af07-ea0981f7a102/ReportSection?experience=power-bi
+
 ![Logistica](https://github.com/Maia-Polonio/Dashboard_Logistica_Importacao/assets/131725481/d599a702-685b-4158-96f5-dad15f5952bd)
